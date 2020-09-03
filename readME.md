@@ -1,12 +1,4 @@
-## David Vega CS-344 Summer 2020
 
- 
-##### Assignment 1  
-
-
-*Hello CS344 TA/Instructor! I included header files and a makefile in
- my program.*
- 
  *The following files should be included in zip file.*
  
  - makefile
