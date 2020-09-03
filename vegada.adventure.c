@@ -1,5 +1,5 @@
 /*******************************************************************************
-** Program:       Assignment 1 - CS344
+** Program:       Assignment 1 
 ** Author:        David Vega
 ** Date:          6/24/20
 ** Description:   This program reads data from 7 files in a folder. The data
